@@ -1,8 +1,4 @@
-# Análisis I - Análisis Matemático I - Matemática 1 - Análisis II (C) — Primer cuatrimestre de 2017
-
-## Equipo docente
-
-- **Clases teóricas:** Esteban Andruchow, Sandra Martínez, Ezequiel Rela, Alejandro Petrovich, Jorge Zilber
+# Análisis 1 M — Primer cuatrimestre de 2017
 
 ## Prácticas
 
